@@ -35,3 +35,6 @@ library(XML)
         
 # to load SP500 as a DF into your global environment, do this:
 # load("path/SP500.rda")
+        
+# Resources:
+        # Web scaping tutorial: http://bradleyboehmke.github.io/2015/12/scraping-html-tables.html
